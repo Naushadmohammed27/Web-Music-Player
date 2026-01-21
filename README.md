@@ -9,7 +9,7 @@
      - song3.mp3
 3. Open `index.html` in Chrome / Edge.
 
-✅ Done! Your music player will work.
+✅ Done! Thank You Enjoy The Music
 
 ## Features
 - Playlist display
